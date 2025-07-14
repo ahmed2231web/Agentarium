@@ -57,20 +57,26 @@ https://github.com/user-attachments/assets/36fbfe79-8b87-42e4-a67d-01b32c026730
 # ✨ Features & Capabilities
 
 - 🧠 **Intelligent Agent Platform:** Modular, extensible, and easy to customize.
+
 - 🐘 **Database Analysis:**
   - Connects to PostgreSQL
   - Schema introspection, query suggestions, and data visualization
+
 - 🎥 **YouTube Video Analysis:**
   - Extracts full transcripts
   - Provides deep, actionable insights
+
 - 🌐 **Web Research:**
   - Visits and summarizes web pages
   - Extracts trends and key information
+
 - 💻 **Modern UI:**
   - Responsive Streamlit interface
   - Dark mode ready
+
 - 🔌 **Extensible Tools:**
   - Add new models, APIs, and workflows
+
 - 📊 **Performance:**
   - Fast, reliable, and scalable
 
