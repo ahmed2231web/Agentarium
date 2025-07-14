@@ -10,18 +10,7 @@
 
 ---
 
-## 🚀 Quick Navigation
-- [Overview](#-overview)
-- [Demo Videos](#-demo-videos)
-- [Features](#-features--capabilities)
-- [Screenshots](#-screenshots)
-- [Getting Started](#-getting-started)
-- [Configuration](#-configuration)
-- [Architecture](#-architecture-overview)
-- [Contributing](#-contributing)
-- [Acknowledgments](#-acknowledgments)
-
----
+<br>
 
 # 🌟 Overview
 
@@ -43,15 +32,23 @@ Agentarium is a next-generation, modular Python platform for building, managing,
 
 # 🎬 Demo Videos
 
-Experience Agentarium in action! Click to watch:
+Experience Agentarium in action!
 
-| Capability         | Demo Video Link                | Description                                 |
-|-------------------|-------------------------------|---------------------------------------------|
-| Database Analysis | [▶️ Postgres_3.mp4](Videos/Postgres_3.mp4) | See Agentarium analyze and visualize PostgreSQL data. |
-| Web Research      | [▶️ Web_2.mp4](Videos/Web_2.mp4)         | Watch the agent extract and summarize web content. |
-| YouTube Insights  | [▶️ You_1.mp4](Videos/You_1.mp4)         | Deep-dive into YouTube video transcript analysis. |
+| Capability         | Description                                          |
+|-------------------|-------------------------------------------------------|
+| Database Analysis | See Agentarium analyze and visualize PostgreSQL data. |
+| Web Research      | Watch the agent extract and summarize web content. |
+| YouTube Insights  | Deep-dive into YouTube video transcript analysis. |
 
->
+https://github.com/user-attachments/assets/7b481ed5-1a1d-4ffb-b3dd-6e9b35ed2696
+
+<br>
+
+https://github.com/user-attachments/assets/36fbfe79-8b87-42e4-a67d-01b32c026730
+
+<br>
+
+https://github.com/user-attachments/assets/2404ccff-021b-4d57-9a8d-f8dc594f309d
 
 ---
 
