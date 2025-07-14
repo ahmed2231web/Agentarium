@@ -88,7 +88,7 @@ https://github.com/user-attachments/assets/36fbfe79-8b87-42e4-a67d-01b32c026730
 
 ## 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/agentarium.git
+git clone https://github.com/ahmed2231web/agentarium.git
 cd agentarium
 ```
 
